@@ -1,4 +1,4 @@
- Hi there 👋 My name is Celil Çağatay Gedik 
+ Hi there 👋 My name is Celil Çağatay Gedik, I am currently Software Engineering student.
 
 - 🔭 I’m currently working : On my projects
 - 🌱 I’m currently learning : Flutter and Go
