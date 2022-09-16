@@ -1,4 +1,4 @@
- Hi there 👋 My name is Celil Çağatay Gedik, I am currently Software Engineering student.
+ Hi there 👋 My name is Celil Çağatay Gedik, I am 19 y/o Software Engineering student.
 
 - 🔭 I’m currently working : On my projects
 - 🌱 I’m currently learning : Swift
