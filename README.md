@@ -23,7 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cagataygedik&show_icons=true&locale=en&layout=compact" alt="cagataygedik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cagataygedik&show_icons=true&locale=en" alt="cagataygedik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cagataygedik&" alt="cagataygedik" /></p>
 
