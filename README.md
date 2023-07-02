@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/cagataygedkk" target="blank"><img src="https://img.shields.io/twitter/follow/cagataygedkk?logo=twitter&style=for-the-badge" alt="cagataygedkk" /></a> </p>
 
-- 🔭 I’m currently working on **On my projects**
+- 🔭 I’m currently on **US TRIP 🇺🇸**
 
 - 🌱 I’m currently learning **Swift**
 
